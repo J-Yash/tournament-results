@@ -10,4 +10,4 @@ How to run the project:
     3) Import the tournament.sql file by running the command "\i tournament.sql". It will create a database and tables.
     4) run the "tournament_test.py" file. It will run all the test cases and show the results.
 
-For further help on installing VM and vagrant, follow the link: https://udacity.atlassian.net/wiki/display/BENDH/Vagrant+VM+Installation
+For further help on installing Virtualbox VM and vagrant, follow the link: https://udacity.atlassian.net/wiki/display/BENDH/Vagrant+VM+Installation
